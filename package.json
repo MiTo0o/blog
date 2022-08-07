@@ -22,6 +22,9 @@
   "overrides": {
     "@mdx-js/react": {
       "react": "$react"
+    },
+    "@reach/skip-nav": {
+      "react": "$react"
     }
   }
 }
