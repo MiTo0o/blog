@@ -19,7 +19,7 @@ module.exports = {
     {
       resolve: `gatsby-theme-blog`,
       options: {
-        prismPreset: "prism-okaidia",
+        prismPreset: 'night-owl'
       },
     },
   ],
