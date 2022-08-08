@@ -19,7 +19,13 @@ module.exports = {
     {
       resolve: `gatsby-theme-blog`,
       options: {
-        prismPreset: 'night-owl'
+        prismPreset: 'vs-dark'
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-manifest',
+      options: {
+        icon: 'content/assets/icon.png',
       },
     },
   ],

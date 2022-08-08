@@ -19,6 +19,7 @@
     "@theme-ui/preset-sketchy": "^0.14.7",
     "@theme-ui/preset-tosh": "^0.14.7",
     "gatsby": "^4.20.0",
+    "gatsby-plugin-manifest": "^4.20.0",
     "gatsby-theme-blog": "^4.0.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
