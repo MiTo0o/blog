@@ -1,19 +1,16 @@
-/*
- * Want to change your theme colors?
- * Try uncommenting the color overrides below
- * to go from default purple to a blue theme
- */
-
-const darkBlue = `#007acc`
-// const lightBlue = `#66E0FF`
-const blueGray = `#282c35`
-
 const theme = {
-    colors: {
-        text: blueGray,
-        primary: darkBlue,
-        heading: blueGray,
+  colors: {
+    modes: {
+      dark: {
+        text: "#fff",
+        background: "#000",
+        primary: "#0fc",
+        secondary: "#0cf",
+        highlight: "#f0c",
+        muted: "#011"
+      },
     },
+  },
 }
 
 export default theme

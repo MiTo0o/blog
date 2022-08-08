@@ -18,7 +18,9 @@ module.exports = {
   plugins: [
     {
       resolve: `gatsby-theme-blog`,
-      options: {},
+      options: {
+        prismPreset: "prism-okaidia",
+      },
     },
   ],
 }
