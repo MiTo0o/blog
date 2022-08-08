@@ -11,4 +11,6 @@ export default function Bio() {
       Dev blog by <Themed.a href="https://derzan.dev/">Derzan Chiang</Themed.a>
     </>
   )
+
 }
+
