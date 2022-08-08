@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://blog.derzan.dev">
-    <img alt="Blog" src="https://raw.githubusercontent.com/MiTo0o/blog/main/content/assets/icon.png" width="512" />
+    <img alt="Blog" src="https://raw.githubusercontent.com/MiTo0o/blog/main/content/assets/icon.png" width="64 />
   </a>
 </p>
 <h1 align="center">
