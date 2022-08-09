@@ -45,7 +45,7 @@ const futureTheme = {
     background: "#fff",
     primary: "#11e",
     secondary: "#c0c",
-    highlight: "#e0e",
+    highlight: "#3f3f3f",
     muted: "#f6f6ff",
     modes: {
       dark: {
